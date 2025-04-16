@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @BrandonCharters
 - 🌟 Interests
-  - Collaborating on coding projects
   - Working on innovative solutions
   - 🎮  Gaming
-  - 🏋️  Keeping physically active
-- 🌱 I am a junior developer currently working at Rokkit200, a dynamic and innovative company. 
+  - 🏋️  Rock Climbing
+- 🌱 I am a junior developer.
 - 📫 If you would like to get in touch with me, you can reach me via: 
   - LinkedIn: https://www.linkedin.com/in/brandoncharterslink
 
